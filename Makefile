@@ -12,7 +12,7 @@ all:
 
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share
-	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share
+	cp -Rav $(THEMES) $(DESTDIR)$(PREFIX)/share
 
 uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Materia
@@ -27,9 +27,9 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/Kvantum/MateriaLight
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Materia-Color
-	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.materia
-	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.materia-dark
-	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.materia-light
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.sudorook.materia
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.sudorook.materia-dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.sudorook.materia-light
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/materia-light
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Materia
