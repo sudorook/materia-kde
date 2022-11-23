@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(1,1)">
-  <rect style="opacity:0.001" width="24" height="24" x="-1" y="-1"/>
-  <path style="fill:#dfdfdf" d="m 7,7 v 2 6 h 8 V 9 7 Z m 2,2 h 4 v 3 1 H 9 v -1 z"/>
+  <rect x="-1" y="-1" width="24" height="24" opacity=".001"/>
+  <path d="m7 7v8h8v-8zm2 2h4v4h-4v-1z" fill="#dfdfdf"/>
  </g>
 </svg>

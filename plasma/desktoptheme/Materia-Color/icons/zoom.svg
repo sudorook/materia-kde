@@ -1,23 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs id="materia">
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
  </defs>
- <g id="22-22-zoom-fit-width" transform="translate(-433,42.999998)">
-  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+ <g id="22-22-zoom-fit-width" transform="translate(-433 43)">
+  <rect x="465" y="-65" width="22" height="22" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m472-58.003-5 4 5 4v-3h8v3l5-4-5-4v3h-8z" fill="currentColor"/>
  </g>
  <g id="22-22-zoom-fit-height" transform="rotate(90,222,-265)">
-  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
+  <rect x="465" y="-65" width="22" height="22" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m472-58.003-5 4 5 4v-3h8v3l5-4-5-4v3h-8z" fill="currentColor"/>
  </g>
  <g id="zoom-fit-height">
-  <rect style="opacity:0.001" width="32" height="32" x="0" y="-32" transform="rotate(90)"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 21,10 15.5,3 10,10 h 4 v 12 h -4 l 5.5,7 5.5,-7 H 17 V 10 Z"/>
+  <rect transform="rotate(90)" y="-32" width="32" height="32" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m21 10-5.5-7-5.5 7h4v12h-4l5.5 7 5.5-7h-4v-12z" fill="currentColor"/>
  </g>
- <g id="zoom-fit-width" transform="rotate(90,32,31.999998)">
-  <rect style="opacity:0.001" width="32" height="32" x="0" y="-32" transform="rotate(90)"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 21,10 15.5,3 10,10 h 4 v 12 h -4 l 5.5,7 5.5,-7 H 17 V 10 Z"/>
+ <g id="zoom-fit-width" transform="rotate(90 32 32)">
+  <rect transform="rotate(90)" y="-32" width="32" height="32" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m21 10-5.5-7-5.5 7h4v12h-4l5.5 7 5.5-7h-4v-12z" fill="currentColor"/>
  </g>
 </svg>

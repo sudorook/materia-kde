@@ -1,15 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs id="materia">
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
  </defs>
  <g id="22-22-kgpg" transform="translate(-315,267)">
-  <rect style="opacity:0.001" width="22" height="22" x="347" y="-257"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" transform="translate(346.99759,-257.00336)" d="M 11,3 C 5.99738,2.997 6,7.6425781 6,7.6425781 V 10 H 5.1660156 C 4.5196856,10 4,10.36686 4,11 v 6.857422 C 4,18.490572 4.5196856,19 5.1660156,19 H 16.833984 C 17.480314,19 18,18.490572 18,17.857422 V 11 c 0,-0.63314 -0.528976,-0.89079 -1.166016,-1 H 16 V 7.6425781 C 16,7.6425781 16.003,3.00336 11,3 Z m 0,3 c 2.00262,-0.003 2,1.5722656 2,1.5722656 V 10 H 9 V 7.5722656 C 9,7.5722656 9.00301,6.00336 11,6 Z m -4,7 h 8 v 3 H 7 Z"/>
+  <rect x="347" y="-257" width="22" height="22" opacity=".001"/>
+  <path class="ColorScheme-Text" transform="translate(347 -257)" d="m11 3c-5.0026-3e-3 -5 4.6426-5 4.6426v2.3574h-0.83398c-0.64633 0-1.166 0.36686-1.166 1v6.8574c0 0.63315 0.51969 1.1426 1.166 1.1426h11.668c0.64633 0 1.166-0.50943 1.166-1.1426v-6.8574c0-0.63314-0.52898-0.89079-1.166-1h-0.83398v-2.3574s3e-3 -4.6392-5-4.6426zm0 3c2.0026-3e-3 2 1.5723 2 1.5723v2.4277h-4v-2.4277s0.00301-1.5689 2-1.5723zm-4 7h8v3h-8z" fill="currentColor"/>
  </g>
  <g id="kgpg">
-  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 15.5 4 C 7.9960707 3.9955 8 10.964844 8 10.964844 L 8 15 L 6.7480469 15 C 5.778552 15 5 15.55029 5 16.5 L 5 26.287109 C 5 27.236834 5.778552 28 6.7480469 28 L 24.25 28 C 25.219495 28 26 27.236834 26 26.287109 L 26 16.5 C 26 15.55029 25.20556 15.163815 24.25 15 L 23 15 L 23 10.964844 C 23 10.964844 23.0045 4.00504 15.5 4 z M 15.5 8 C 19.004585 7.99475 19 10.751953 19 10.751953 L 19 15 L 12 15 L 12 10.751953 C 12 10.751953 12.0053 8.00588 15.5 8 z M 9 19 L 22 19 L 22 24 L 9 24 L 9 19 z"/>
+  <rect width="32" height="32" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m15.5 4c-7.5039-0.0045-7.5 6.9648-7.5 6.9648v4.0352h-1.252c-0.96949 0-1.748 0.55029-1.748 1.5v9.7871c0 0.94972 0.77855 1.7129 1.748 1.7129h17.502c0.9695 0 1.75-0.76317 1.75-1.7129v-9.7871c0-0.94971-0.79444-1.3362-1.75-1.5h-1.25v-4.0352s0.0045-6.9598-7.5-6.9648zm0 4c3.5046-0.00525 3.5 2.752 3.5 2.752v4.248h-7v-4.248s0.0053-2.7461 3.5-2.752zm-6.5 11h13v5h-13v-5z" fill="currentColor"/>
  </g>
 </svg>

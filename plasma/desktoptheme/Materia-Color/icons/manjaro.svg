@@ -1,15 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
  <defs id="materia">
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
  </defs>
- <g id="22-22-manjaro-settings-manager" transform="translate(27,5.0000005)">
-  <rect style="opacity:0.001" width="22" height="22" x="5" y="5"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.75,9 C 9.3345,9 9,9.3345 9,9.75 v 12.5 C 9,22.6655 9.352874,22.877807 9.75,23 H 13 V 13 h 5 V 9 Z M 19,9 v 14 h 3.25 C 22.6655,23 23,22.6655 23,22.25 V 9.75 C 23,9.3345 22.6655,9 22.25,9 Z m -5,5 v 9 h 4 v -9 z"/>
+ <g id="22-22-manjaro-settings-manager" transform="translate(27 5)">
+  <rect x="5" y="5" width="22" height="22" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m9.75 9c-0.4155 0-0.75 0.3345-0.75 0.75v12.5c0 0.4155 0.35287 0.62781 0.75 0.75h3.25v-10h5v-4zm9.25 0v14h3.25c0.4155 0 0.75-0.3345 0.75-0.75v-12.5c0-0.4155-0.3345-0.75-0.75-0.75zm-5 5v9h4v-9z" fill="currentColor"/>
  </g>
  <g id="manjaro-settings-manager">
-  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.1785711,5 C 5.5256426,5 4.9999997,5.5256429 4.9999997,6.1785714 V 25.821429 c 0,0.652929 0.5545163,0.986554 1.1785714,1.178571 H 11 V 11 h 8 V 5 Z M 21,5 v 22 h 4.821428 C 26.474357,27 27,26.474358 27,25.821429 V 6.1785714 C 27,5.5256429 26.474357,5 25.821428,5 Z m -8,8 v 14 h 6 V 13 Z"/>
+  <rect width="32" height="32" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m6.1786 5c-0.65293 0-1.1786 0.52564-1.1786 1.1786v19.643c0 0.65293 0.55452 0.98655 1.1786 1.1786h4.8214v-16h8v-6zm14.821 0v22h4.8214c0.65293 0 1.1786-0.52564 1.1786-1.1786v-19.643c0-0.65293-0.52564-1.1786-1.1786-1.1786zm-8 8v14h6v-14z" fill="currentColor"/>
  </g>
 </svg>

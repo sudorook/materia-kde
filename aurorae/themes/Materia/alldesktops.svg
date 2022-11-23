@@ -1,28 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <g id="active-center" transform="scale(1.0909091)">
-  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
-  <circle style="fill:#dfdfdf" cx="11" cy="11" r="3.667"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g id="active-center" transform="scale(1.0909)">
+  <rect width="22" height="22" opacity=".001"/>
+  <circle cx="11" cy="11" r="3.667" fill="#dfdfdf"/>
  </g>
- <g id="hover-center" transform="matrix(1.0909091,0,0,1.0909091,-1.0909092,0)">
+ <g id="hover-center" transform="matrix(1.0909 0 0 1.0909 -1.0909 0)">
   <g transform="translate(23)">
-   <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+   <rect width="22" height="22" opacity=".001"/>
   </g>
-  <circle style="opacity:0.08;fill:#ffffff" cx="34" cy="11" r="11"/>
-  <circle style="fill:#dfdfdf" cx="34" cy="11" r="3.667"/>
+  <circle cx="34" cy="11" r="11" fill="#fff" opacity=".08"/>
+  <circle cx="34" cy="11" r="3.667" fill="#dfdfdf"/>
  </g>
- <g id="pressed-center" transform="matrix(1.0909091,0,0,1.0909091,-2.1818183,0)">
+ <g id="pressed-center" transform="matrix(1.0909 0 0 1.0909 -2.1818 0)">
   <g transform="translate(46)">
-   <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+   <rect width="22" height="22" opacity=".001"/>
   </g>
-  <circle style="opacity:0.19;fill:#ffffff" cx="57" cy="11" r="11"/>
-  <circle style="fill:#dfdfdf" cx="57" cy="11" r="3.667"/>
+  <circle cx="57" cy="11" r="11" fill="#fff" opacity=".19"/>
+  <circle cx="57" cy="11" r="3.667" fill="#dfdfdf"/>
  </g>
- <g id="inactive-center" transform="matrix(1.0909091,0,0,1.0909091,-3.2727274,0)">
-  <rect style="opacity:0.001" width="22" height="22" x="69" y="0"/>
-  <circle style="opacity:0.5;fill:#dfdfdf" cx="80" cy="11" r="3.667"/>
+ <g id="inactive-center" transform="matrix(1.0909 0 0 1.0909 -3.2727 0)">
+  <rect x="69" width="22" height="22" opacity=".001"/>
+  <circle cx="80" cy="11" r="3.667" fill="#dfdfdf" opacity=".5"/>
  </g>
- <g id="deactivated-center" transform="matrix(1.0909091,0,0,1.0909091,-4.3636365,0)">
-  <rect style="opacity:0.001" width="22" height="22" x="92" y="0"/>
-  <circle style="opacity:0.5;fill:#dfdfdf" cx="103" cy="11" r="3.667"/>
+ <g id="deactivated-center" transform="matrix(1.0909 0 0 1.0909 -4.3636 0)">
+  <rect x="92" width="22" height="22" opacity=".001"/>
+  <circle cx="103" cy="11" r="3.667" fill="#dfdfdf" opacity=".5"/>
  </g>
 </svg>

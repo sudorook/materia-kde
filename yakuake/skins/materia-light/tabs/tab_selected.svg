@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg8" width="1" height="25" version="1.1">
- <g id="layer1" transform="translate(0,-290.38541)">
-   <rect id="rect817" style="opacity:1;fill:#f0f0f0" width="1" height="22" x="0" y="291.38"/>
-   <rect id="rect819" style="opacity:1;fill:#eeeeee" width="1" height="1" x="0" y="290.38"/>
-   <rect id="rect821" style="opacity:1;fill:#1a73e8" width="1" height="2" x="0" y="313.38"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="1" height="25" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g id="layer1" transform="translate(0 -290.39)">
+  <rect id="rect817" y="291.38" width="1" height="22" fill="#f0f0f0"/>
+  <rect id="rect819" y="290.38" width="1" height="1" fill="#eee"/>
+  <rect id="rect821" y="313.38" width="1" height="2" fill="#1a73e8"/>
  </g>
 </svg>

@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1" height="25" version="1.1" viewBox="0 0 1 25">
- <g transform="translate(0,-290.38541)">
-   <rect width="1" height="22" x="0" y="291.38" style="fill:#272727"/>
-   <rect width="1" height="1" x="0" y="290.38" style="fill:#222222"/>
-   <rect width="1" height="2" x="0" y="313.38" style="fill:#dfdfdf"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1" height="25" version="1.1" viewBox="0 0 1 25" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -290.39)">
+  <rect y="291.38" width="1" height="22" fill="#272727"/>
+  <rect y="290.38" width="1" height="1" fill="#222"/>
+  <rect y="313.38" width="1" height="2" fill="#dfdfdf"/>
  </g>
 </svg>

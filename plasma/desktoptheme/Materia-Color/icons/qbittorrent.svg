@@ -1,17 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs id="materia">
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
  </defs>
- <g id="22-22-qbittorrent-tray" transform="translate(32.000001,10.000001)">
-  <path style="opacity:0.001" d="M 0,0 H 22 V 22 H 0 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="m 13,3 a 1,1 0 0 0 -1,1 v 11 h 2 V 14.458984 C 14.607485,14.81219 15.297298,14.998156 16,15 18.209139,15 20,13.209139 20,11 20,8.7908608 18.209139,7 16,7 15.29748,7.00125 14.607679,7.1865555 14,7.5390625 V 4 A 1,1 0 0 0 13,3 Z m 3,6 c 1.104569,0 2,0.8954308 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.1045692 0.895431,-2 2,-2 z"/>
-  <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 6,7 c -2.209139,0 -4,1.7908608 -4,4 0,2.209139 1.790861,4 4,4 0.702523,-0.0013 1.392325,-0.188495 2,-0.541016 V 18 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 7 H 8 V 7.5410156 C 7.392515,7.1878093 6.702702,7.0018543 6,7 Z M 6,9 C 7.10457,9 8,9.8954308 8,11 8,12.104569 7.10457,13 6,13 4.895431,13 4,12.104569 4,11 4,9.8954308 4.895431,9 6,9 Z"/>
+ <g id="22-22-qbittorrent-tray" transform="translate(32 10)">
+  <path d="m0 0h22v22h-22z" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m13 3a1 1 0 0 0-1 1v11h2v-0.54102c0.60748 0.35321 1.2973 0.53917 2 0.54102 2.2091 0 4-1.7909 4-4 0-2.2091-1.7909-4-4-4-0.70252 0.00125-1.3923 0.18656-2 0.53906v-3.5391a1 1 0 0 0-1-1zm3 6c1.1046 0 2 0.89543 2 2 0 1.1046-0.89543 2-2 2s-2-0.89543-2-2c0-1.1046 0.89543-2 2-2z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m6 7c-2.2091 0-4 1.7909-4 4 0 2.2091 1.7909 4 4 4 0.70252-0.0013 1.3923-0.1885 2-0.54102v3.541a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-11h-2v0.54102c-0.60748-0.35321-1.2973-0.53916-2-0.54102zm0 2c1.1046 0 2 0.89543 2 2 0 1.1046-0.89543 2-2 2-1.1046 0-2-0.89543-2-2 0-1.1046 0.89543-2 2-2z" fill="currentColor" opacity=".35"/>
  </g>
  <g id="qbittorrent-tray">
-  <path style="opacity:0.001" d="M 0,0 H 32.000001 V 32.000001 H 0 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 18.500001,4.0000005 A 1.5,1.5 0 0 0 17,5.5000005 V 22 h 3 v -0.811524 c 0.911228,0.529809 1.945947,0.808758 3,0.811524 3.313708,0 6,-2.686291 6,-6 0,-3.313708 -2.686292,-5.999999 -6,-5.999999 -1.05378,0.0019 -2.088481,0.279833 -3,0.808593 V 5.5000005 a 1.5,1.5 0 0 0 -1.499999,-1.5 z M 23,13.000001 c 1.656854,0 3,1.343145 3,2.999999 0,1.656854 -1.343146,3.000001 -3,3.000001 -1.656854,0 -3,-1.343147 -3,-3.000001 0,-1.656854 1.343146,-2.999999 3,-2.999999 z"/>
-  <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 9,10.000001 c -3.3137085,0 -6,2.686291 -6,5.999999 0,3.313709 2.6862915,6 6,6 1.053784,-0.002 2.088487,-0.282742 3,-0.811524 v 5.311525 A 1.5,1.5 0 0 0 13.500001,28 1.5,1.5 0 0 0 15,26.500001 v -16.5 h -3 v 0.811523 C 11.088772,10.281715 10.054053,10.002782 9,10.000001 Z m 0,3 c 1.656855,0 3,1.343145 3,2.999999 0,1.656854 -1.343145,3.000001 -3,3.000001 -1.6568535,0 -3,-1.343147 -3,-3.000001 0,-1.656854 1.3431465,-2.999999 3,-2.999999 z"/>
+  <path d="m0 0h32v32h-32z" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m18.5 4a1.5 1.5 0 0 0-1.5 1.5v16.5h3v-0.81152c0.91123 0.52981 1.9459 0.80876 3 0.81152 3.3137 0 6-2.6863 6-6 0-3.3137-2.6863-6-6-6-1.0538 0.0019-2.0885 0.27983-3 0.80859v-5.3086a1.5 1.5 0 0 0-1.5-1.5zm4.5 9c1.6569 0 3 1.3431 3 3s-1.3431 3-3 3-3-1.3431-3-3 1.3431-3 3-3z" fill="currentColor"/>
+  <path class="ColorScheme-Text" d="m9 10c-3.3137 0-6 2.6863-6 6 0 3.3137 2.6863 6 6 6 1.0538-2e-3 2.0885-0.28274 3-0.81152v5.3115a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5v-16.5h-3v0.81152c-0.91123-0.52981-1.9459-0.80874-3-0.81152zm0 3c1.6569 0 3 1.3431 3 3s-1.3431 3-3 3c-1.6569 0-3-1.3431-3-3s1.3431-3 3-3z" fill="currentColor" opacity=".35"/>
  </g>
 </svg>

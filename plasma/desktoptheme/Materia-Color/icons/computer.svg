@@ -1,19 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg">
  <defs id="materia">
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
  </defs>
  <g id="computer" transform="translate(-2e-4,34)">
-  <rect style="opacity:0.001" width="32" height="32" x="0" y="-34"/>
+  <rect y="-34" width="32" height="32" opacity=".001"/>
   <g transform="translate(2e-4,-35)">
-   <path style="fill:currentColor" class="ColorScheme-Text" transform="translate(0,1)" d="M 4.3007812,4 C 3.5805813,4 3,4.5575 3,5.25 v 17.5 C 3,23.4425 3.5805813,24 4.3007812,24 H 8 v 1.6875 C 8,26.414902 8.5935493,27 9.3320312,27 H 22.667969 C 23.406451,27 24,26.414902 24,25.6875 V 24 h 3.699219 C 28.419419,24 29,23.4425 29,22.75 V 5.25 C 29,4.5575 28.419419,4 27.699219,4 Z M 6,7 H 26 V 21 H 24 8 6 Z"/>
+   <path class="ColorScheme-Text" transform="translate(0,1)" d="m4.3008 4c-0.7202 0-1.3008 0.5575-1.3008 1.25v17.5c0 0.6925 0.58058 1.25 1.3008 1.25h3.6992v1.6875c0 0.7274 0.59355 1.3125 1.332 1.3125h13.336c0.73848 0 1.332-0.5851 1.332-1.3125v-1.6875h3.6992c0.7202 0 1.3008-0.5575 1.3008-1.25v-17.5c0-0.6925-0.58058-1.25-1.3008-1.25zm1.6992 3h20v14h-20z" fill="currentColor"/>
   </g>
  </g>
  <g id="computer-laptop" transform="translate(-4.0002,34)">
-  <rect style="opacity:0.001" width="32" height="32" x="36" y="-34"/>
+  <rect x="36" y="-34" width="32" height="32" opacity=".001"/>
   <g transform="translate(36,-35)">
-   <path style="fill:currentColor" class="ColorScheme-Text" transform="translate(-31.9998,1)" d="M 36.298828,5 C 35.578628,5 35,5.5575 35,6.25 v 15.5 C 35,22.442 35.578628,23 36.298828,23 H 34 c -0.554,0 -1,0.446 -1,1 v 1 c 0,0.554 0.446,1 1,1 h 28 c 0.554,0 1,-0.446 1,-1 v -1 c 0,-0.554 -0.446,-1 -1,-1 H 59.699219 C 60.419419,23 61,22.4425 61,21.75 V 6.25 C 61,5.5575 60.419219,5 59.699219,5 Z M 38,8 H 58 V 20 H 38 Z"/>
+   <path class="ColorScheme-Text" transform="translate(-32 1)" d="m36.299 5c-0.7202 0-1.2988 0.5575-1.2988 1.25v15.5c0 0.692 0.57863 1.25 1.2988 1.25h-2.2988c-0.554 0-1 0.446-1 1v1c0 0.554 0.446 1 1 1h28c0.554 0 1-0.446 1-1v-1c0-0.554-0.446-1-1-1h-2.3008c0.7202 0 1.3008-0.5575 1.3008-1.25v-15.5c0-0.6925-0.58078-1.25-1.3008-1.25zm1.7012 3h20v12h-20z" fill="currentColor"/>
   </g>
  </g>
 </svg>

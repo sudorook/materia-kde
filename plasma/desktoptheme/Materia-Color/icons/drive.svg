@@ -1,15 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs id="materia">
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
  </defs>
  <g id="22-22-drive-harddisk" transform="translate(32,10)">
-  <rect style="opacity:0.001" width="22" height="22" x="0" y="0" ry="1.375"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 5.166016,3 C 3.99935,3 4,4.142578 4,4.142578 V 17.857422 C 4,17.857422 3.99935,19 5.166016,19 H 16.833984 C 16.833984,19 18,19.000279 18,17.857422 V 4.142578 C 18,4.142578 18.00065,3 16.833984,3 Z M 11,5 c 2.761425,0 5,2.238575 5,5 0,2.761425 -2.238575,5 -5,5 H 6 V 10 C 6,7.238575 8.238573,5 11,5 Z m 0,3 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
+  <rect width="22" height="22" ry="1.375" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m5.166 3c-1.1667 0-1.166 1.1426-1.166 1.1426v13.715s-6.5e-4 1.1426 1.166 1.1426h11.668s1.166 2.79e-4 1.166-1.1426v-13.715s6.5e-4 -1.1426-1.166-1.1426zm5.834 2c2.7614 0 5 2.2386 5 5s-2.2386 5-5 5h-5v-5c0-2.7614 2.2386-5 5-5zm0 3c-1.1046 0-2 0.89543-2 2s0.89543 2 2 2 2-0.89543 2-2-0.89543-2-2-2z" fill="currentColor"/>
  </g>
  <g id="drive-harddisk">
-  <rect style="opacity:0.001" width="32" height="32" x="0" y="0" ry="2"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.75 4 C 5.000001 4 5 5.7128906 5 5.7128906 L 5 26.287109 C 5 26.287109 5.000001 28 6.75 28 L 24.251953 28 C 24.251953 28 26 28.001394 26 26.287109 L 26 5.7128906 C 26 5.7128906 26.001951 4 24.251953 4 L 6.75 4 z M 15.5 7 C 19.642138 7 23 10.357863 23 14.5 C 23 18.642137 19.642138 22 15.5 22 L 8 22 L 8 14.5 C 8 10.357863 11.357859 7 15.5 7 z M 15.5 11 C 13.567002 11 12 12.567004 12 14.5 C 12 16.432997 13.567002 18 15.5 18 C 17.432997 18 19 16.432997 19 14.5 C 19 12.567004 17.432997 11 15.5 11 z"/>
+  <rect width="32" height="32" ry="2" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m6.75 4c-1.75 0-1.75 1.7129-1.75 1.7129v20.574s1e-6 1.7129 1.75 1.7129h17.502s1.748 0.001394 1.748-1.7129v-20.574s0.001951-1.7129-1.748-1.7129h-17.502zm8.75 3c4.1421 0 7.5 3.3579 7.5 7.5s-3.3579 7.5-7.5 7.5h-7.5v-7.5c0-4.1421 3.3579-7.5 7.5-7.5zm0 4c-1.933 0-3.5 1.567-3.5 3.5 0 1.933 1.567 3.5 3.5 3.5 1.933 0 3.5-1.567 3.5-3.5 0-1.933-1.567-3.5-3.5-3.5z" fill="currentColor"/>
  </g>
 </svg>

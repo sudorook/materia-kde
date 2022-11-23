@@ -1,17 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
  <defs id="materia">
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }</style>
  </defs>
  <g id="yakuake">
-  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="M 18.046875,4.1269534 10.023438,12.148438 12.851562,14.978516 20.875,6.9550784 Z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.8300781 4.1269531 L 2 6.9550781 L 8.6074219 13.5625 L 2 20.171875 L 4.8300781 23 L 14.265625 13.5625 L 4.8300781 4.1269531 z M 15 24 L 15 28 L 30 28 L 30 24 L 15 24 z"/>
+  <rect width="32" height="32" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m18.047 4.127-8.0234 8.0215 2.8281 2.8301 8.0234-8.0234z" fill="currentColor" opacity=".35"/>
+  <path class="ColorScheme-Text" d="m4.8301 4.127-2.8301 2.8281 6.6074 6.6074-6.6074 6.6094 2.8301 2.8281 9.4355-9.4375-9.4355-9.4355zm10.17 19.873v4h15v-4h-15z" fill="currentColor"/>
  </g>
  <g id="22-22-yakuake" transform="translate(27,5)">
-  <rect style="opacity:0.001" width="22" height="22" x="5" y="5"/>
-  <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 18.595703,7.9902344 -5.298828,5.2988276 1.414063,1.414063 5.298828,-5.2988281 z"/>
-  <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.4140625,7.9902344 8,9.4042969 12.589844,13.996094 8,18.585938 9.4140625,20 15.419922,13.996094 Z M 14.287109,22 v 2 H 24 v -2 z"/>
+  <rect x="5" y="5" width="22" height="22" opacity=".001"/>
+  <path class="ColorScheme-Text" d="m18.596 7.9902-5.2988 5.2988 1.4141 1.4141 5.2988-5.2988z" fill="currentColor" opacity=".35"/>
+  <path class="ColorScheme-Text" d="m9.4141 7.9902-1.4141 1.4141 4.5898 4.5918-4.5898 4.5898 1.4141 1.4141 6.0059-6.0039zm4.873 14.01v2h9.7129v-2z" fill="currentColor"/>
  </g>
 </svg>

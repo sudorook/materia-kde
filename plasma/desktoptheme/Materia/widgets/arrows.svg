@@ -1,18 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" version="1.1">
- <g id="up-arrow" transform="matrix(3.7796976,0,0,3.7796976,-44.001078,-963.56316)">
-  <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-  <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44" height="44" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g id="up-arrow" transform="matrix(3.7797 0 0 3.7797 -44.001 -963.56)">
+  <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.704" height="3.704" fill="none"/>
+  <path d="m17.462 256.25-1.0583 1.0583h2.1167z" fill="#dfdfdf"/>
  </g>
- <g id="down-arrow" transform="matrix(3.7796976,0,0,-3.7796976,-44.001078,1007.5632)">
-  <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-  <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"/>
+ <g id="down-arrow" transform="matrix(3.7797 0 0 -3.7797 -44.001 1007.6)">
+  <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.704" height="3.704" fill="none"/>
+  <path d="m17.462 256.25-1.0583 1.0583h2.1167z" fill="#dfdfdf"/>
  </g>
- <g id="right-arrow" transform="matrix(0,3.7796976,-3.7796976,0,1007.5632,-44.001078)">
-  <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-  <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"/>
+ <g id="right-arrow" transform="matrix(0 3.7797 -3.7797 0 1007.6 -44.001)">
+  <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.704" height="3.704" fill="none"/>
+  <path d="m17.462 256.25-1.0583 1.0583h2.1167z" fill="#dfdfdf"/>
  </g>
- <g id="left-arrow" transform="matrix(0,3.7796976,3.7796976,0,-963.56333,-44.001078)">
-  <rect style="fill:none" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
-  <path style="fill:#dfdfdf" d="m 17.462495,256.25414 -1.058333,1.05833 h 2.116667 z"/>
+ <g id="left-arrow" transform="matrix(0 3.7797 3.7797 0 -963.56 -44.001)">
+  <rect transform="matrix(0,1,1,0,0,0)" x="254.93" y="15.61" width="3.704" height="3.704" fill="none"/>
+  <path d="m17.462 256.25-1.0583 1.0583h2.1167z" fill="#dfdfdf"/>
  </g>
 </svg>
