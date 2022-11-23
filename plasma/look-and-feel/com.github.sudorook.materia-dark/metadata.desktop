@@ -9,7 +9,7 @@ Type=Service
 
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-ParentApp=
-X-KDE-PluginInfo-Author=Alexey Varfolomeev
+X-KDE-PluginInfo-Author=sudorook
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Email=
 X-KDE-PluginInfo-License=GPLv3
