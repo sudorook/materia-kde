@@ -12,7 +12,7 @@ all:
 
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share
-	cp -Rav $(THEMES) $(DESTDIR)$(PREFIX)/share
+	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share
 
 uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Materia
