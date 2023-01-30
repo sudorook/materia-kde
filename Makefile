@@ -37,6 +37,15 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/materia
 	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/materia-dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/sddm/themes/materia-light
+	-rmdir --ignore-fail-on-non-empty $(DESTDIR)$(PREFIX)/share/aurorae
+	-rmdir --ignore-fail-on-non-empty $(DESTDIR)$(PREFIX)/share/color-schemes
+	-rmdir --ignore-fail-on-non-empty $(DESTDIR)$(PREFIX)/share/konosole
+	-rmdir --ignore-fail-on-non-empty $(DESTDIR)$(PREFIX)/share/Kvantum
+	-rmdir --ignore-fail-on-non-empty $(DESTDIR)$(PREFIX)/share/yakuake/skins
+	-rmdir --ignore-fail-on-non-empty $(DESTDIR)$(PREFIX)/share/yakuake
+	-rmdir --ignore-fail-on-non-empty $(DESTDIR)$(PREFIX)/share/wallpapers
+	-rmdir --ignore-fail-on-non-empty $(DESTDIR)$(PREFIX)/share/sddm/themes
+	-rmdir --ignore-fail-on-non-empty $(DESTDIR)$(PREFIX)/share/sddm
 
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
